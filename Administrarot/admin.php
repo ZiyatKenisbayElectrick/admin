@@ -52,27 +52,25 @@ echo '
 	
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-<!--===============================================================================================-->	
-<!--===============================================================================================-->
+
 	<link rel="stylesheet" type="text/css" href="login/vendor/bootstrap/css/bootstrap.min.css">
-<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="login/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-<!--===============================================================================================-->
+
 	<link rel="stylesheet" type="text/css" href="login/fonts/iconic/css/material-design-iconic-font.min.css">
-<!--===============================================================================================-->
+
 	<link rel="stylesheet" type="text/css" href="login/vendor/animate/animate.css">
-<!--===============================================================================================-->	
+	
 	<link rel="stylesheet" type="text/css" href="login/vendor/css-hamburgers/hamburgers.min.css">
-<!--===============================================================================================-->
+
 	<link rel="stylesheet" type="text/css" href="login/vendor/animsition/css/animsition.min.css">
-<!--===============================================================================================-->
+
 	<link rel="stylesheet" type="text/css" href="login/vendor/select2/select2.min.css">
-<!--===============================================================================================-->	
+	
 	<link rel="stylesheet" type="text/css" href="login/vendor/daterangepicker/daterangepicker.css">
-<!--===============================================================================================-->
+
 	<link rel="stylesheet" type="text/css" href="login/css/util.css">
 	<link rel="stylesheet" type="text/css" href="login/css/main.css">
-<!--===============================================================================================-->
+
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="apple-touch-icon" sizes="57x57" href="Images/apple-icon-57x57.png">
@@ -100,9 +98,9 @@ echo '
 body {
 
   background-image: url("Images/1515114578.jpg");
-    background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover; 
 background-color: #ffffff;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
@@ -187,21 +185,21 @@ background-color: #ffffff;
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
   	
-<!--===============================================================================================-->
+
 	<script src="login/vendor/jquery/jquery-3.2.1.min.js"></script>
-<!--===============================================================================================-->
+
 	<script src="login/vendor/animsition/js/animsition.min.js"></script>
-<!--===============================================================================================-->
+
 	<script src="login/vendor/bootstrap/js/popper.js"></script>
 	<script src="login/vendor/bootstrap/js/bootstrap.min.js"></script>
-<!--===============================================================================================-->
+
 	<script src="login/vendor/select2/select2.min.js"></script>
-<!--===============================================================================================-->
+
 	<script src="login/vendor/daterangepicker/moment.min.js"></script>
 	<script src="login/vendor/daterangepicker/daterangepicker.js"></script>
-<!--===============================================================================================-->
+
 	<script src="login/vendor/countdowntime/countdowntime.js"></script>
-<!--===============================================================================================-->
+
 	<script src="login/js/main.js"></script>
 
 </body>';
