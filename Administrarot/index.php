@@ -39,14 +39,13 @@ if ($sessionadmin==$setadmin && $sessionpass==$setpass){
 
 
 <?php 
-//mavbar included
 include 'navbar.php';
  ?>
 <!-- 
 
 
 -->
-<h2> YOUR CODE SHOULD BE HERE :D </h2>
+
 
 </body>
 </html>
